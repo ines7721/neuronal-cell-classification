@@ -50,11 +50,11 @@ This advances automated quantification for HIE drug development by improving acc
 ### Languages and Core Competencies
 - **Python**: Primary language for all scripting, model training, and evaluation. Competencies include data processing, neural network implementation, multiprocessing for parallel training, and result aggregation/visualization.
 - **Deep Learning Frameworks**: PyTorch for core model building and training; Hugging Face Transformers for ViT/Swin/Hybrid models; Timm for EfficientNet/SwinV2.
-- **Data Handling**: NumPy/SciPy for numerical operations; Pillow/OpenCV/ImageIO for image loading/processing; Albumentations for augmentations; Imbalanced-Learn for handling class imbalance via SMOTE variants.
+- **Data Handling**: NumPy/SciPy for numerical operations; Pillow/OpenCV/ImageIO for image loading/processing; Albumentations for augmentations.
 - **Machine Learning Tools**: Scikit-Learn for metrics (ROC AUC, confusion matrices, classification reports), StratifiedKFold for cross-validation.
-- **Visualization and Interpretability**: Matplotlib for plotting (loss/accuracy curves, ROC, boxplots); PyTorch-Grad-CAM for model explainability via heatmaps.
+- **Visualization and Interpretability**: Matplotlib for plotting (loss/accuracy curves, ROC, boxplots); brief use of PyTorch-Grad-CAM for heatmaps tests.
 - **Utilities**: Tqdm for progress tracking; PSUtil/GC for memory management; Hashlib/ImageHash for data integrity; Multiprocessing for GPU-parallel model training.
-- **Domain Skills**: Medical image classification, handling imbalanced datasets, fine-tuning pre-trained models (ImageNet/Histology-specific), performance benchmarking across architectures.
+- **Domain Skills**: Medical image classification, handling imbalanced datasets, fine-tuning pre-trained models (ImageNet/Histology-specific), performance evaluation across architectures.
 
 ## Dataset
 
