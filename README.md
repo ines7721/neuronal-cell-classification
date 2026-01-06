@@ -81,7 +81,7 @@ The code implements a comprehensive pipeline for model training and evaluation:
 - **Parallel Processing**: Utilizes multiprocessing for multi-GPU training on NeSI HPC cluster, aggregating results in JSON.
 
 <img width="834" height="713" alt="Capture d&#39;écran 2026-01-06 122741" src="https://github.com/user-attachments/assets/8a0d4479-469a-4b01-b9c9-0ef24490f978" />
-<img width="834" height="713" alt="Capture d&#39;écran 2026-01-06 122741" src="https://github.com/user-attachments/assets/8a0d4479-469a-4b01-b9c9-0ef24490f978" />
+
 
 
 ## Results
@@ -95,17 +95,14 @@ Benchmarking revealed:
 
 Hybrid ViT optimal for HIE severity assessment due to superior pyknotic sensitivity and balance.
 
-<img width="559" height="577" alt="Capture d&#39;écran 2026-01-06 122606" src="https://github.com/user-attachments/assets/e3e0bf87-4186-4e50-b0e4-e938f3de3fa6" />
-<img width="559" height="577" alt="Capture d&#39;écran 2026-01-06 122606" src="https://github.com/user-attachments/assets/e3e0bf87-4186-4e50-b0e4-e938f3de3fa6" />
+<img width="834" height="713" alt="Capture d&#39;écran 2026-01-06 122606" src="https://github.com/user-attachments/assets/e3e0bf87-4186-4e50-b0e4-e938f3de3fa6" />
+
+ 
+<img width="1367" height="569" alt="Capture d&#39;écran 2026-01-06 122639" src="https://github.com/user-attachments/assets/faf15acb-25a7-4933-ba9c-4434bf7cf4c3" />
+ 
+<img width="1319" height="694" alt="Capture d&#39;écran 2026-01-06 122656" src="https://github.com/user-attachments/assets/512251d8-193a-48bc-9113-fee3071a4b61" />
 
 <img width="1083" height="606" alt="Capture d&#39;écran 2026-01-06 122712" src="https://github.com/user-attachments/assets/f7b5fd15-b8a7-4d0c-9fc7-7aeb3fac62f9" />
-<img width="1083" height="606" alt="Capture d&#39;écran 2026-01-06 122712" src="https://github.com/user-attachments/assets/f7b5fd15-b8a7-4d0c-9fc7-7aeb3fac62f9" />
-<img width="1319" height="694" alt="Capture d&#39;écran 2026-01-06 122656" src="https://github.com/user-attachments/assets/512251d8-193a-48bc-9113-fee3071a4b61" />
-<img width="1319" height="694" alt="Capture d&#39;écran 2026-01-06 122656" src="https://github.com/user-attachments/assets/512251d8-193a-48bc-9113-fee3071a4b61" />
-<img width="1367" height="569" alt="Capture d&#39;écran 2026-01-06 122639" src="https://github.com/user-attachments/assets/faf15acb-25a7-4933-ba9c-4434bf7cf4c3" />
-<img width="1367" height="569" alt="Capture d&#39;écran 2026-01-06 122639" src="https://github.com/user-attachments/assets/faf15acb-25a7-4933-ba9c-4434bf7cf4c3" />
-
-
 
 ## Acknowledgments
 
