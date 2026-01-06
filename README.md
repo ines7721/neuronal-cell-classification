@@ -3,6 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-blue?logo=pytorch)
 ![Transformers](https://img.shields.io/badge/Transformers-4.30+-yellow?logo=huggingface)
+
 ![Timm](https://img.shields.io/badge/Timm-0.9+-red)
 ![Albumentations](https://img.shields.io/badge/Albumentations-1.3+-red)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1.2+-red?logo=scikit-learn)
@@ -18,14 +19,15 @@
 ![ImageHash](https://img.shields.io/badge/ImageHash-4.3+-red)
 ![PSUtil](https://img.shields.io/badge/PSUtil-5.9+-red)
 ![Hashlib](https://img.shields.io/badge/Hashlib-Standard-red?logo=python)
-![Multiprocessing](https://img.shields.io/badge/Multiprocessing-Standard-darkblue?logo=python)
+![Multiprocessing](https://img.shields.io/badge/Multiprocessing-Standard-red?logo=python)
+
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-Models-darkblue)
 ![Vision Transformers](https://img.shields.io/badge/Vision%20Transformers-ViT/Swin/Hybrid-darkblue)
 ![CNNs](https://img.shields.io/badge/CNNs-EfficientNet/ResNet/Custom-darkblue)
-
-![Cross-Validation](https://img.shields.io/badge/Cross--Validation-5--Fold-darkgreen)
+![Cross-Validation](https://img.shields.io/badge/Cross--Validation-5--Fold-darkblue)
 ![Metrics](https://img.shields.io/badge/Metrics-ROC%20AUC/Confusion%20Matrix/Classification%20Report-darkblue)
 ![High-Performance Computing](https://img.shields.io/badge/HPC-NeSI%20Cluster-darkblue)
+
 ![Medical Imaging](https://img.shields.io/badge/Medical%20Imaging-Histology-darkgreen)
 ![Research](https://img.shields.io/badge/Research-Article-black)
 
