@@ -95,13 +95,15 @@ Benchmarking revealed:
 
 Hybrid ViT optimal for HIE severity assessment due to superior pyknotic sensitivity and balance.
 
-<img width="834" height="713" alt="Capture d&#39;écran 2026-01-06 122741" src="https://github.com/user-attachments/assets/012fe249-737f-45a6-b3ae-448560f492e1" />
+<img width="559" height="577" alt="Capture d&#39;écran 2026-01-06 122606" src="https://github.com/user-attachments/assets/ce90f7be-0da2-490f-bc50-a859e2326efd" />
 
-<img width="743" height="376" alt="Capture d&#39;écran 2026-01-06 123116" src="https://github.com/user-attachments/assets/f9353da8-8676-4004-80c2-7c272f9220b5" />
 
-<img width="733" height="453" alt="Capture d&#39;écran 2026-01-06 123121" src="https://github.com/user-attachments/assets/10080ec3-ecfa-46aa-9e52-a41f005065d3" />
+<img width="914" height="463" alt="Capture d'écran 2026-01-06 123116" src="https://github.com/user-attachments/assets/f9353da8-8676-4004-80c2-7c272f9220b5" />
 
-<img width="1083" height="606" alt="Capture d&#39;écran 2026-01-06 122712" src="https://github.com/user-attachments/assets/c8ed3499-c108-44e2-b6fa-56d58144360b" />
+<img width="827" height="511" alt="Capture d'écran 2026-01-06 123121" src="https://github.com/user-attachments/assets/10080ec3-ecfa-46aa-9e52-a41f005065d3" />
+
+<img width="870" height="487" alt="Capture d'écran 2026-01-06 122712" src="https://github.com/user-attachments/assets/c8ed3499-c108-44e2-b6fa-56d58144360b" />
+
 
 
 
