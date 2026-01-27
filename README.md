@@ -112,4 +112,4 @@ Hybrid ViT optimal for HIE severity assessment due to superior pyknotic sensitiv
 
 - Data from University of Auckland, Department of Physiology.
 - Built on NeSI HPC cluster for training.
-- Internship report included in repo. Please contact me at i.boulefred@gmail.com for further information.
+- Internship report included in repo. 
